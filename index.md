@@ -52,13 +52,6 @@ Watch this short video demo of the Homely application in action:
 
 <iframe src="https://drive.google.com/file/d/1P68cGefBVQdY1cd_3p5wmzQN9Hc3tU_i/preview" width="100%" height="480" allow="autoplay"></iframe>
 
-<div style="text-align: center; margin-top: 1.5em;">
-  <a href="https://homely-g99oi.ondigitalocean.app/" target="_blank" style="background-color:#0366d6; color:white; padding:12px 24px; text-decoration:none; font-weight:bold; border-radius:6px; font-size:1.1em;">
-    🚀 Try the Live Homely MVP
-  </a>
-</div>
-
-
 
 ---
 ## Model
