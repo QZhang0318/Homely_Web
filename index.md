@@ -3,7 +3,8 @@ layout: default
 title: Welcome to Homely
 ---
 
-# 🏠 Homely: A Transparent Home Valuation Tool
+<img src="assets/icon.png" alt="Homely logo" width="32" style="vertical-align: middle; margin-right: 8px;" />
+# Homely: A Transparent Home Valuation Tool
 
 Welcome to **Homely**, a home valuation dashboard built by data scientists from the UC Berkeley MIDS program — Louis Young, Qiong Zhang, and Mohammed Elaubeir.
 
@@ -39,21 +40,20 @@ Our project focuses on **Los Angeles County** and integrates over 25 features fr
 
 ---
 
-## 🧭 Dashboard Walkthrough Video
+## 🧭 Homely Application Walkthrough Video
 
-Watch this short video demo of the Homely dashboard in action:
+Watch this short video demo of the Homely application in action:
 
 <iframe src="https://drive.google.com/file/d/1P68cGefBVQdY1cd_3p5wmzQN9Hc3tU_i/preview" width="100%" height="480" allow="autoplay"></iframe>
 
 ---
 
-## 👨‍👩‍👧‍👦 About the Team
+## Meet the Team
 
-This project was created as part of the **UC Berkeley MIDS Capstone** by:
-
-- **Louis Young** – Model and backend architecture  
-- **Qiong Zhang** – Frontend development and design  
-- **Mohammed Elaubeir** – Data wrangling, SHAP interpretation
+This project was created as part of the UC Berkeley MIDS Capstone by:
+<div style="text-align: center; margin-top: 1em;">
+  <img src="assets/team_slide.png" alt="Homely Team" width="80%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.1);" />
+</div>
 
 We hope Homely helps demystify home values and build confidence in your real estate journey.
 
