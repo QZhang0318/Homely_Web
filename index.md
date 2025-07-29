@@ -52,6 +52,10 @@ Watch this short video demo of the Homely application in action:
 
 <iframe src="https://drive.google.com/file/d/1P68cGefBVQdY1cd_3p5wmzQN9Hc3tU_i/preview" width="100%" height="480" allow="autoplay"></iframe>
 
+<div style="text-align: center; margin-top: 1em;">
+  <img src="assets/demo_website_screenshot.png" alt="Homely Team" width="80%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.1);" />
+</div>
+
 <div style="text-align: center; margin-top: 1.5em;">
   <a href="https://homely-g99oi.ondigitalocean.app/" target="_blank" style="background-color:#0366d6; color:white; padding:12px 24px; text-decoration:none; font-weight:bold; border-radius:6px; font-size:1.1em;">
     🚀 Try the Live Homely MVP
@@ -73,7 +77,7 @@ After multiple iterations of model testing and hyperparameter tuning, we selecte
 
 Most of the estiamted house values that were predicted by our model align well with assessor value, except a few spots with higher error.
 <div style="text-align: center; margin-top: 1em;">
-  <img src="assets/heatmap.png" alt="Homely Team" width="80%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.1);" />
+  <img src="assets/error_map.png" alt="Homely Team" width="80%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.1);" />
 </div>
 
 ---
@@ -83,7 +87,7 @@ Most of the estiamted house values that were predicted by our model align well w
 One of the most insightful features of our website is the **Home Value Explanation** in "What-if" scenario. We invite users to enter numbers for 5 key home features to explore the change of home price under various “what-if” scenarios. Using the **SHAP method**, we break down the top 10 features influencing the house value and show how each contributes — either positively or negatively — to the final What-If Value. An example to show how we translated complex SHAP outputs from the model to the MVP, enhancing user understanding and interpretability.
 
 <div style="text-align: center; margin-top: 1em;">
-  <img src="assets/SHAP.png" alt="Homely Team" width="80%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.1);" />
+  <img src="assets/SHAP_values.png" alt="Homely Team" width="80%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.1);" />
 </div>
 
 ---
