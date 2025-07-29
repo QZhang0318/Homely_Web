@@ -46,7 +46,7 @@ Our project focuses on **Los Angeles County** and integrates over 25 features fr
 
 ---
 
-## Homely Application Walkthrough Video
+## Homely Application Walkthrough Video <img src="assets/icon.png" alt="Homely logo" width="32" style="vertical-align: middle; margin-right: 8px;" /> 
 
 Watch this short video demo of the Homely application in action:
 
