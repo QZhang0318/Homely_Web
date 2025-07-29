@@ -78,6 +78,16 @@ Most of the estiamted house values that were predicted by our model align well w
 
 ---
 
+##  Explanation
+
+One of the most insightful features of our website is the **Home Value Explanation** in "What-if" scenario. We invite users to enter numbers for 5 key home features to explore the change of home price under various “what-if” scenarios. Using the **SHAP method**, we break down the top 10 features influencing the house value and show how each contributes — either positively or negatively — to the final What-If Value. An example to show how we translated complex SHAP outputs from the model to the MVP, enhancing user understanding and interpretability.
+
+<div style="text-align: center; margin-top: 1em;">
+  <img src="assets/SHAP.png" alt="Homely Team" width="80%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.1);" />
+</div>
+
+---
+
 We hope Homely helps demystify home values and build confidence in your real estate journey.
 
 ---
