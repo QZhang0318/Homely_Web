@@ -58,6 +58,7 @@ Watch this short video demo of the Homely application in action:
     <strong>Try the live Homely application here</strong>
   </a>
 </div>
+
 ---
 ## Model
 
