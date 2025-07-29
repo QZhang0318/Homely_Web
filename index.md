@@ -51,7 +51,7 @@ Our project focuses on **Los Angeles County** and integrates over 25 features fr
 Watch this short video demo of the Homely application in action:
 
 <iframe src="https://drive.google.com/file/d/1P68cGefBVQdY1cd_3p5wmzQN9Hc3tU_i/preview" width="100%" height="480" allow="autoplay"></iframe>
-
+---
 👉 **Try the live Homely MVP here:**  
 [https://homely-g99oi.ondigitalocean.app/](https://homely-g99oi.ondigitalocean.app/)
 
